@@ -1,0 +1,1 @@
+Adres getirme motodu eklendi.
